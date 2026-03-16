@@ -1,6 +1,6 @@
 # --- Configuración General de AWS ---
 
-region             = "eu-west-1"
+region = "eu-west-1"
 
 # --- Configuración de Red ---
 vpc_cidr           = "10.0.0.0/16"

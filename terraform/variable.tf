@@ -25,7 +25,7 @@ variable "key_name" {
   type        = string
 }
 
-variable "instance_name"{
-    description = "Server Name"
-    type = string
-    }
+variable "instance_name" {
+  description = "Server Name"
+  type        = string
+}

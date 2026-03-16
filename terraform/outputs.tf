@@ -1,6 +1,6 @@
 output "vpc_id" {
   description = "ID of the created VPC"
-  value       = aws_vpc.main.id  #VAMOS A MOSTRAR EL ID DE LA VARIABLE MAIN QUE ES TIPO DE RECURSO AWS_VPC
+  value       = aws_vpc.main.id #VAMOS A MOSTRAR EL ID DE LA VARIABLE MAIN QUE ES TIPO DE RECURSO AWS_VPC
 }
 
 output "subnet_id" {
