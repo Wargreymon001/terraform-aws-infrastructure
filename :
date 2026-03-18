@@ -1,0 +1,63 @@
+[33mcommit 45d54fc0b2539441e8a0cb92d71a9f6fc54b2007[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Wargreymon001 <berwer92@gmail.com>
+Date:   Mon Mar 16 08:55:06 2026 +0100
+
+    Add AWS credentials to CI pipeline
+
+[33mcommit 0426c0257c97d76c4dda734f3b4cc4928fcb1624[m
+Author: Wargreymon001 <berwer92@gmail.com>
+Date:   Mon Mar 16 08:45:45 2026 +0100
+
+    Format Terraform code
+
+[33mcommit bfa3517fcffc3de390c13ff726d7029e9f7b3a7a[m
+Author: Wargreymon001 <berwer92@gmail.com>
+Date:   Mon Mar 16 08:43:28 2026 +0100
+
+    Fix Terraform CI working directory
+
+[33mcommit ac33fa8a8fa7ee3c3b553d3c0656750f70efbba2[m
+Author: Wargreymon001 <berwer92@gmail.com>
+Date:   Mon Mar 16 08:39:07 2026 +0100
+
+    Add Terraform pipeline
+
+[33mcommit 48730ec09fd41eee2fc0799948492b1433d582e7[m
+Author: bernard <88351425+Wargreymon001@users.noreply.github.com>
+Date:   Mon Mar 16 07:57:15 2026 +0100
+
+    Add files via upload
+
+[33mcommit efe0bee7278d671881a439e404479adea1fd1f96[m
+Author: bernard <88351425+Wargreymon001@users.noreply.github.com>
+Date:   Mon Mar 16 07:48:49 2026 +0100
+
+    Add files via upload
+
+[33mcommit c1e38f949b1afff5cc8385aeef19a904910c5260[m
+Author: bernard <88351425+Wargreymon001@users.noreply.github.com>
+Date:   Mon Mar 16 07:48:19 2026 +0100
+
+    Delete docs/enunciado-proyecto.pdf
+    
+    delete enunciado-proyecto.pdf
+
+[33mcommit 561f24e52910360346198626d603170181e3e824[m
+Author: Wargreymon001 <berwer92@gmail.com>
+Date:   Mon Mar 16 07:44:55 2026 +0100
+
+    Add project documentation and architecture
+
+[33mcommit 6ab89d712e3323a2329799e6ab2446f50dfd060f[m
+Author: bernard <88351425+Wargreymon001@users.noreply.github.com>
+Date:   Mon Mar 16 05:52:29 2026 +0100
+
+    Create README.md for Terraform AWS Infrastructure
+    
+    Added a README file with project details and architecture.
+
+[33mcommit 313f8acc2788ae56b15cc90989a2ac3cb0ce9617[m
+Author: Wargreymon001 <berwer92@gmail.com>
+Date:   Mon Mar 16 05:29:56 2026 +0100
+
+    Initial commit - Terraform AWS infrastructure
